@@ -20,10 +20,10 @@ Monitoramento Reativo: Sistema automático que detecta estoque crítico e envia 
 Segurança: Sistema de autenticação administrativa persistente.
 
 🛠️ Como rodar o projeto
-1. Clone este repositório.
+Clone este repositório.
 
-2. Instale as dependências: pip install -r requirements.txt
+Instale as dependências: pip install -r requirements.txt
 
-3. Configure suas credenciais de e-mail no app.py.
+Configure suas credenciais de e-mail no app.py.
 
-4. Execute: streamlit run app.py
+Execute: streamlit run app.py
