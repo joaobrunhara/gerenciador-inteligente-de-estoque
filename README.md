@@ -20,6 +20,7 @@ Monitoramento Reativo: Sistema automático que detecta estoque crítico e envia 
 Segurança: Sistema de autenticação administrativa persistente.
 
 🛠️ Como rodar o projeto
+
 Clone este repositório.
 
 Instale as dependências: pip install -r requirements.txt
