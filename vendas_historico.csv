@@ -1,0 +1,841 @@
+Data,Produto,Quantidade_Vendida
+2026-01-01,Sapato,7
+2026-01-01,Camisa Branca,3
+2026-01-01,Camisa Preta,4
+2026-01-01,Abotoadura,1
+2026-01-01,Cinto,3
+2026-01-01,Tenis Branco,7
+2026-01-01,Tenis Preto,8
+2026-01-02,Sapato,5
+2026-01-02,Camisa Branca,7
+2026-01-02,Camisa Preta,7
+2026-01-02,Abotoadura,2
+2026-01-02,Cinto,3
+2026-01-02,Tenis Branco,3
+2026-01-02,Tenis Preto,6
+2026-01-03,Sapato,5
+2026-01-03,Camisa Branca,6
+2026-01-03,Camisa Preta,8
+2026-01-03,Abotoadura,1
+2026-01-03,Cinto,2
+2026-01-03,Tenis Branco,6
+2026-01-03,Tenis Preto,3
+2026-01-04,Sapato,10
+2026-01-04,Camisa Branca,4
+2026-01-04,Camisa Preta,8
+2026-01-04,Abotoadura,2
+2026-01-04,Cinto,5
+2026-01-04,Tenis Branco,6
+2026-01-04,Tenis Preto,3
+2026-01-05,Sapato,9
+2026-01-05,Camisa Branca,5
+2026-01-05,Camisa Preta,7
+2026-01-05,Abotoadura,2
+2026-01-05,Cinto,2
+2026-01-05,Tenis Branco,8
+2026-01-05,Tenis Preto,3
+2026-01-06,Sapato,5
+2026-01-06,Camisa Branca,7
+2026-01-06,Camisa Preta,7
+2026-01-06,Abotoadura,1
+2026-01-06,Cinto,2
+2026-01-06,Tenis Branco,4
+2026-01-06,Tenis Preto,3
+2026-01-07,Sapato,6
+2026-01-07,Camisa Branca,6
+2026-01-07,Camisa Preta,7
+2026-01-07,Abotoadura,1
+2026-01-07,Cinto,5
+2026-01-07,Tenis Branco,6
+2026-01-07,Tenis Preto,8
+2026-01-08,Sapato,4
+2026-01-08,Camisa Branca,6
+2026-01-08,Camisa Preta,3
+2026-01-08,Abotoadura,1
+2026-01-08,Cinto,2
+2026-01-08,Tenis Branco,3
+2026-01-08,Tenis Preto,3
+2026-01-09,Sapato,5
+2026-01-09,Camisa Branca,8
+2026-01-09,Camisa Preta,7
+2026-01-09,Abotoadura,1
+2026-01-09,Cinto,4
+2026-01-09,Tenis Branco,5
+2026-01-09,Tenis Preto,5
+2026-01-10,Sapato,8
+2026-01-10,Camisa Branca,7
+2026-01-10,Camisa Preta,6
+2026-01-10,Abotoadura,1
+2026-01-10,Cinto,5
+2026-01-10,Tenis Branco,9
+2026-01-10,Tenis Preto,9
+2026-01-11,Sapato,10
+2026-01-11,Camisa Branca,3
+2026-01-11,Camisa Preta,5
+2026-01-11,Abotoadura,2
+2026-01-11,Cinto,1
+2026-01-11,Tenis Branco,4
+2026-01-11,Tenis Preto,8
+2026-01-12,Sapato,5
+2026-01-12,Camisa Branca,5
+2026-01-12,Camisa Preta,5
+2026-01-12,Abotoadura,2
+2026-01-12,Cinto,5
+2026-01-12,Tenis Branco,3
+2026-01-12,Tenis Preto,8
+2026-01-13,Sapato,4
+2026-01-13,Camisa Branca,7
+2026-01-13,Camisa Preta,5
+2026-01-13,Abotoadura,2
+2026-01-13,Cinto,1
+2026-01-13,Tenis Branco,3
+2026-01-13,Tenis Preto,9
+2026-01-14,Sapato,10
+2026-01-14,Camisa Branca,8
+2026-01-14,Camisa Preta,3
+2026-01-14,Abotoadura,1
+2026-01-14,Cinto,3
+2026-01-14,Tenis Branco,8
+2026-01-14,Tenis Preto,7
+2026-01-15,Sapato,4
+2026-01-15,Camisa Branca,4
+2026-01-15,Camisa Preta,7
+2026-01-15,Abotoadura,2
+2026-01-15,Cinto,5
+2026-01-15,Tenis Branco,8
+2026-01-15,Tenis Preto,9
+2026-01-16,Sapato,5
+2026-01-16,Camisa Branca,7
+2026-01-16,Camisa Preta,6
+2026-01-16,Abotoadura,1
+2026-01-16,Cinto,5
+2026-01-16,Tenis Branco,4
+2026-01-16,Tenis Preto,3
+2026-01-17,Sapato,8
+2026-01-17,Camisa Branca,4
+2026-01-17,Camisa Preta,4
+2026-01-17,Abotoadura,2
+2026-01-17,Cinto,5
+2026-01-17,Tenis Branco,8
+2026-01-17,Tenis Preto,6
+2026-01-18,Sapato,5
+2026-01-18,Camisa Branca,7
+2026-01-18,Camisa Preta,4
+2026-01-18,Abotoadura,0
+2026-01-18,Cinto,1
+2026-01-18,Tenis Branco,8
+2026-01-18,Tenis Preto,4
+2026-01-19,Sapato,7
+2026-01-19,Camisa Branca,3
+2026-01-19,Camisa Preta,3
+2026-01-19,Abotoadura,0
+2026-01-19,Cinto,4
+2026-01-19,Tenis Branco,4
+2026-01-19,Tenis Preto,7
+2026-01-20,Sapato,7
+2026-01-20,Camisa Branca,8
+2026-01-20,Camisa Preta,3
+2026-01-20,Abotoadura,0
+2026-01-20,Cinto,4
+2026-01-20,Tenis Branco,5
+2026-01-20,Tenis Preto,8
+2026-01-21,Sapato,6
+2026-01-21,Camisa Branca,4
+2026-01-21,Camisa Preta,5
+2026-01-21,Abotoadura,1
+2026-01-21,Cinto,2
+2026-01-21,Tenis Branco,8
+2026-01-21,Tenis Preto,5
+2026-01-22,Sapato,9
+2026-01-22,Camisa Branca,4
+2026-01-22,Camisa Preta,6
+2026-01-22,Abotoadura,1
+2026-01-22,Cinto,3
+2026-01-22,Tenis Branco,5
+2026-01-22,Tenis Preto,8
+2026-01-23,Sapato,5
+2026-01-23,Camisa Branca,5
+2026-01-23,Camisa Preta,7
+2026-01-23,Abotoadura,1
+2026-01-23,Cinto,4
+2026-01-23,Tenis Branco,9
+2026-01-23,Tenis Preto,5
+2026-01-24,Sapato,8
+2026-01-24,Camisa Branca,7
+2026-01-24,Camisa Preta,6
+2026-01-24,Abotoadura,2
+2026-01-24,Cinto,5
+2026-01-24,Tenis Branco,3
+2026-01-24,Tenis Preto,6
+2026-01-25,Sapato,10
+2026-01-25,Camisa Branca,7
+2026-01-25,Camisa Preta,8
+2026-01-25,Abotoadura,0
+2026-01-25,Cinto,5
+2026-01-25,Tenis Branco,3
+2026-01-25,Tenis Preto,8
+2026-01-26,Sapato,5
+2026-01-26,Camisa Branca,7
+2026-01-26,Camisa Preta,5
+2026-01-26,Abotoadura,0
+2026-01-26,Cinto,2
+2026-01-26,Tenis Branco,6
+2026-01-26,Tenis Preto,5
+2026-01-27,Sapato,10
+2026-01-27,Camisa Branca,3
+2026-01-27,Camisa Preta,8
+2026-01-27,Abotoadura,1
+2026-01-27,Cinto,1
+2026-01-27,Tenis Branco,9
+2026-01-27,Tenis Preto,7
+2026-01-28,Sapato,8
+2026-01-28,Camisa Branca,5
+2026-01-28,Camisa Preta,8
+2026-01-28,Abotoadura,1
+2026-01-28,Cinto,4
+2026-01-28,Tenis Branco,7
+2026-01-28,Tenis Preto,9
+2026-01-29,Sapato,10
+2026-01-29,Camisa Branca,7
+2026-01-29,Camisa Preta,5
+2026-01-29,Abotoadura,0
+2026-01-29,Cinto,1
+2026-01-29,Tenis Branco,4
+2026-01-29,Tenis Preto,6
+2026-01-30,Sapato,6
+2026-01-30,Camisa Branca,4
+2026-01-30,Camisa Preta,4
+2026-01-30,Abotoadura,0
+2026-01-30,Cinto,5
+2026-01-30,Tenis Branco,6
+2026-01-30,Tenis Preto,9
+2026-01-31,Sapato,10
+2026-01-31,Camisa Branca,3
+2026-01-31,Camisa Preta,5
+2026-01-31,Abotoadura,2
+2026-01-31,Cinto,3
+2026-01-31,Tenis Branco,4
+2026-01-31,Tenis Preto,5
+2026-02-01,Sapato,8
+2026-02-01,Camisa Branca,6
+2026-02-01,Camisa Preta,4
+2026-02-01,Abotoadura,2
+2026-02-01,Cinto,3
+2026-02-01,Tenis Branco,7
+2026-02-01,Tenis Preto,3
+2026-02-02,Sapato,4
+2026-02-02,Camisa Branca,6
+2026-02-02,Camisa Preta,3
+2026-02-02,Abotoadura,1
+2026-02-02,Cinto,2
+2026-02-02,Tenis Branco,4
+2026-02-02,Tenis Preto,5
+2026-02-03,Sapato,9
+2026-02-03,Camisa Branca,7
+2026-02-03,Camisa Preta,3
+2026-02-03,Abotoadura,0
+2026-02-03,Cinto,2
+2026-02-03,Tenis Branco,8
+2026-02-03,Tenis Preto,6
+2026-02-04,Sapato,9
+2026-02-04,Camisa Branca,5
+2026-02-04,Camisa Preta,4
+2026-02-04,Abotoadura,0
+2026-02-04,Cinto,3
+2026-02-04,Tenis Branco,7
+2026-02-04,Tenis Preto,8
+2026-02-05,Sapato,4
+2026-02-05,Camisa Branca,8
+2026-02-05,Camisa Preta,5
+2026-02-05,Abotoadura,2
+2026-02-05,Cinto,4
+2026-02-05,Tenis Branco,6
+2026-02-05,Tenis Preto,6
+2026-02-06,Sapato,10
+2026-02-06,Camisa Branca,4
+2026-02-06,Camisa Preta,6
+2026-02-06,Abotoadura,2
+2026-02-06,Cinto,3
+2026-02-06,Tenis Branco,6
+2026-02-06,Tenis Preto,5
+2026-02-07,Sapato,10
+2026-02-07,Camisa Branca,8
+2026-02-07,Camisa Preta,7
+2026-02-07,Abotoadura,2
+2026-02-07,Cinto,5
+2026-02-07,Tenis Branco,7
+2026-02-07,Tenis Preto,6
+2026-02-08,Sapato,6
+2026-02-08,Camisa Branca,4
+2026-02-08,Camisa Preta,8
+2026-02-08,Abotoadura,2
+2026-02-08,Cinto,2
+2026-02-08,Tenis Branco,3
+2026-02-08,Tenis Preto,4
+2026-02-09,Sapato,10
+2026-02-09,Camisa Branca,6
+2026-02-09,Camisa Preta,7
+2026-02-09,Abotoadura,0
+2026-02-09,Cinto,5
+2026-02-09,Tenis Branco,9
+2026-02-09,Tenis Preto,4
+2026-02-10,Sapato,10
+2026-02-10,Camisa Branca,7
+2026-02-10,Camisa Preta,3
+2026-02-10,Abotoadura,0
+2026-02-10,Cinto,5
+2026-02-10,Tenis Branco,7
+2026-02-10,Tenis Preto,4
+2026-02-11,Sapato,8
+2026-02-11,Camisa Branca,7
+2026-02-11,Camisa Preta,8
+2026-02-11,Abotoadura,1
+2026-02-11,Cinto,3
+2026-02-11,Tenis Branco,6
+2026-02-11,Tenis Preto,5
+2026-02-12,Sapato,9
+2026-02-12,Camisa Branca,8
+2026-02-12,Camisa Preta,5
+2026-02-12,Abotoadura,1
+2026-02-12,Cinto,4
+2026-02-12,Tenis Branco,7
+2026-02-12,Tenis Preto,8
+2026-02-13,Sapato,4
+2026-02-13,Camisa Branca,7
+2026-02-13,Camisa Preta,4
+2026-02-13,Abotoadura,1
+2026-02-13,Cinto,4
+2026-02-13,Tenis Branco,8
+2026-02-13,Tenis Preto,7
+2026-02-14,Sapato,5
+2026-02-14,Camisa Branca,4
+2026-02-14,Camisa Preta,6
+2026-02-14,Abotoadura,1
+2026-02-14,Cinto,3
+2026-02-14,Tenis Branco,9
+2026-02-14,Tenis Preto,9
+2026-02-15,Sapato,6
+2026-02-15,Camisa Branca,5
+2026-02-15,Camisa Preta,5
+2026-02-15,Abotoadura,1
+2026-02-15,Cinto,5
+2026-02-15,Tenis Branco,8
+2026-02-15,Tenis Preto,6
+2026-02-16,Sapato,10
+2026-02-16,Camisa Branca,3
+2026-02-16,Camisa Preta,4
+2026-02-16,Abotoadura,0
+2026-02-16,Cinto,4
+2026-02-16,Tenis Branco,8
+2026-02-16,Tenis Preto,4
+2026-02-17,Sapato,7
+2026-02-17,Camisa Branca,6
+2026-02-17,Camisa Preta,5
+2026-02-17,Abotoadura,1
+2026-02-17,Cinto,2
+2026-02-17,Tenis Branco,8
+2026-02-17,Tenis Preto,5
+2026-02-18,Sapato,4
+2026-02-18,Camisa Branca,6
+2026-02-18,Camisa Preta,5
+2026-02-18,Abotoadura,2
+2026-02-18,Cinto,4
+2026-02-18,Tenis Branco,9
+2026-02-18,Tenis Preto,3
+2026-02-19,Sapato,4
+2026-02-19,Camisa Branca,5
+2026-02-19,Camisa Preta,3
+2026-02-19,Abotoadura,1
+2026-02-19,Cinto,5
+2026-02-19,Tenis Branco,3
+2026-02-19,Tenis Preto,6
+2026-02-20,Sapato,10
+2026-02-20,Camisa Branca,6
+2026-02-20,Camisa Preta,6
+2026-02-20,Abotoadura,1
+2026-02-20,Cinto,2
+2026-02-20,Tenis Branco,7
+2026-02-20,Tenis Preto,4
+2026-02-21,Sapato,9
+2026-02-21,Camisa Branca,5
+2026-02-21,Camisa Preta,3
+2026-02-21,Abotoadura,2
+2026-02-21,Cinto,4
+2026-02-21,Tenis Branco,7
+2026-02-21,Tenis Preto,6
+2026-02-22,Sapato,4
+2026-02-22,Camisa Branca,8
+2026-02-22,Camisa Preta,6
+2026-02-22,Abotoadura,1
+2026-02-22,Cinto,3
+2026-02-22,Tenis Branco,4
+2026-02-22,Tenis Preto,9
+2026-02-23,Sapato,10
+2026-02-23,Camisa Branca,6
+2026-02-23,Camisa Preta,6
+2026-02-23,Abotoadura,1
+2026-02-23,Cinto,5
+2026-02-23,Tenis Branco,6
+2026-02-23,Tenis Preto,7
+2026-02-24,Sapato,4
+2026-02-24,Camisa Branca,6
+2026-02-24,Camisa Preta,7
+2026-02-24,Abotoadura,0
+2026-02-24,Cinto,3
+2026-02-24,Tenis Branco,6
+2026-02-24,Tenis Preto,3
+2026-02-25,Sapato,4
+2026-02-25,Camisa Branca,7
+2026-02-25,Camisa Preta,4
+2026-02-25,Abotoadura,0
+2026-02-25,Cinto,5
+2026-02-25,Tenis Branco,3
+2026-02-25,Tenis Preto,4
+2026-02-26,Sapato,6
+2026-02-26,Camisa Branca,6
+2026-02-26,Camisa Preta,3
+2026-02-26,Abotoadura,1
+2026-02-26,Cinto,4
+2026-02-26,Tenis Branco,6
+2026-02-26,Tenis Preto,9
+2026-02-27,Sapato,4
+2026-02-27,Camisa Branca,4
+2026-02-27,Camisa Preta,4
+2026-02-27,Abotoadura,2
+2026-02-27,Cinto,4
+2026-02-27,Tenis Branco,6
+2026-02-27,Tenis Preto,9
+2026-02-28,Sapato,5
+2026-02-28,Camisa Branca,3
+2026-02-28,Camisa Preta,5
+2026-02-28,Abotoadura,1
+2026-02-28,Cinto,5
+2026-02-28,Tenis Branco,5
+2026-02-28,Tenis Preto,8
+2026-03-01,Sapato,10
+2026-03-01,Camisa Branca,5
+2026-03-01,Camisa Preta,3
+2026-03-01,Abotoadura,1
+2026-03-01,Cinto,3
+2026-03-01,Tenis Branco,4
+2026-03-01,Tenis Preto,9
+2026-03-02,Sapato,10
+2026-03-02,Camisa Branca,4
+2026-03-02,Camisa Preta,4
+2026-03-02,Abotoadura,0
+2026-03-02,Cinto,1
+2026-03-02,Tenis Branco,7
+2026-03-02,Tenis Preto,7
+2026-03-03,Sapato,6
+2026-03-03,Camisa Branca,5
+2026-03-03,Camisa Preta,8
+2026-03-03,Abotoadura,1
+2026-03-03,Cinto,1
+2026-03-03,Tenis Branco,6
+2026-03-03,Tenis Preto,7
+2026-03-04,Sapato,10
+2026-03-04,Camisa Branca,8
+2026-03-04,Camisa Preta,6
+2026-03-04,Abotoadura,2
+2026-03-04,Cinto,4
+2026-03-04,Tenis Branco,8
+2026-03-04,Tenis Preto,7
+2026-03-05,Sapato,7
+2026-03-05,Camisa Branca,7
+2026-03-05,Camisa Preta,5
+2026-03-05,Abotoadura,2
+2026-03-05,Cinto,1
+2026-03-05,Tenis Branco,9
+2026-03-05,Tenis Preto,4
+2026-03-06,Sapato,8
+2026-03-06,Camisa Branca,4
+2026-03-06,Camisa Preta,5
+2026-03-06,Abotoadura,1
+2026-03-06,Cinto,2
+2026-03-06,Tenis Branco,3
+2026-03-06,Tenis Preto,3
+2026-03-07,Sapato,9
+2026-03-07,Camisa Branca,3
+2026-03-07,Camisa Preta,5
+2026-03-07,Abotoadura,2
+2026-03-07,Cinto,3
+2026-03-07,Tenis Branco,4
+2026-03-07,Tenis Preto,3
+2026-03-08,Sapato,5
+2026-03-08,Camisa Branca,8
+2026-03-08,Camisa Preta,3
+2026-03-08,Abotoadura,0
+2026-03-08,Cinto,3
+2026-03-08,Tenis Branco,5
+2026-03-08,Tenis Preto,8
+2026-03-09,Sapato,4
+2026-03-09,Camisa Branca,8
+2026-03-09,Camisa Preta,7
+2026-03-09,Abotoadura,2
+2026-03-09,Cinto,4
+2026-03-09,Tenis Branco,3
+2026-03-09,Tenis Preto,6
+2026-03-10,Sapato,8
+2026-03-10,Camisa Branca,4
+2026-03-10,Camisa Preta,3
+2026-03-10,Abotoadura,2
+2026-03-10,Cinto,2
+2026-03-10,Tenis Branco,5
+2026-03-10,Tenis Preto,9
+2026-03-11,Sapato,7
+2026-03-11,Camisa Branca,4
+2026-03-11,Camisa Preta,3
+2026-03-11,Abotoadura,1
+2026-03-11,Cinto,4
+2026-03-11,Tenis Branco,5
+2026-03-11,Tenis Preto,9
+2026-03-12,Sapato,8
+2026-03-12,Camisa Branca,5
+2026-03-12,Camisa Preta,4
+2026-03-12,Abotoadura,2
+2026-03-12,Cinto,2
+2026-03-12,Tenis Branco,4
+2026-03-12,Tenis Preto,7
+2026-03-13,Sapato,4
+2026-03-13,Camisa Branca,4
+2026-03-13,Camisa Preta,5
+2026-03-13,Abotoadura,0
+2026-03-13,Cinto,1
+2026-03-13,Tenis Branco,8
+2026-03-13,Tenis Preto,4
+2026-03-14,Sapato,7
+2026-03-14,Camisa Branca,4
+2026-03-14,Camisa Preta,3
+2026-03-14,Abotoadura,0
+2026-03-14,Cinto,2
+2026-03-14,Tenis Branco,6
+2026-03-14,Tenis Preto,4
+2026-03-15,Sapato,10
+2026-03-15,Camisa Branca,7
+2026-03-15,Camisa Preta,4
+2026-03-15,Abotoadura,0
+2026-03-15,Cinto,2
+2026-03-15,Tenis Branco,8
+2026-03-15,Tenis Preto,4
+2026-03-16,Sapato,4
+2026-03-16,Camisa Branca,8
+2026-03-16,Camisa Preta,8
+2026-03-16,Abotoadura,0
+2026-03-16,Cinto,5
+2026-03-16,Tenis Branco,3
+2026-03-16,Tenis Preto,5
+2026-03-17,Sapato,10
+2026-03-17,Camisa Branca,4
+2026-03-17,Camisa Preta,3
+2026-03-17,Abotoadura,0
+2026-03-17,Cinto,5
+2026-03-17,Tenis Branco,3
+2026-03-17,Tenis Preto,3
+2026-03-18,Sapato,10
+2026-03-18,Camisa Branca,8
+2026-03-18,Camisa Preta,5
+2026-03-18,Abotoadura,0
+2026-03-18,Cinto,3
+2026-03-18,Tenis Branco,7
+2026-03-18,Tenis Preto,9
+2026-03-19,Sapato,9
+2026-03-19,Camisa Branca,6
+2026-03-19,Camisa Preta,5
+2026-03-19,Abotoadura,1
+2026-03-19,Cinto,1
+2026-03-19,Tenis Branco,5
+2026-03-19,Tenis Preto,3
+2026-03-20,Sapato,5
+2026-03-20,Camisa Branca,8
+2026-03-20,Camisa Preta,7
+2026-03-20,Abotoadura,0
+2026-03-20,Cinto,1
+2026-03-20,Tenis Branco,7
+2026-03-20,Tenis Preto,9
+2026-03-21,Sapato,10
+2026-03-21,Camisa Branca,8
+2026-03-21,Camisa Preta,4
+2026-03-21,Abotoadura,1
+2026-03-21,Cinto,5
+2026-03-21,Tenis Branco,3
+2026-03-21,Tenis Preto,4
+2026-03-22,Sapato,5
+2026-03-22,Camisa Branca,6
+2026-03-22,Camisa Preta,8
+2026-03-22,Abotoadura,2
+2026-03-22,Cinto,3
+2026-03-22,Tenis Branco,9
+2026-03-22,Tenis Preto,8
+2026-03-23,Sapato,6
+2026-03-23,Camisa Branca,4
+2026-03-23,Camisa Preta,8
+2026-03-23,Abotoadura,1
+2026-03-23,Cinto,1
+2026-03-23,Tenis Branco,5
+2026-03-23,Tenis Preto,8
+2026-03-24,Sapato,5
+2026-03-24,Camisa Branca,6
+2026-03-24,Camisa Preta,6
+2026-03-24,Abotoadura,1
+2026-03-24,Cinto,3
+2026-03-24,Tenis Branco,6
+2026-03-24,Tenis Preto,8
+2026-03-25,Sapato,8
+2026-03-25,Camisa Branca,5
+2026-03-25,Camisa Preta,4
+2026-03-25,Abotoadura,2
+2026-03-25,Cinto,2
+2026-03-25,Tenis Branco,5
+2026-03-25,Tenis Preto,7
+2026-03-26,Sapato,5
+2026-03-26,Camisa Branca,3
+2026-03-26,Camisa Preta,8
+2026-03-26,Abotoadura,0
+2026-03-26,Cinto,4
+2026-03-26,Tenis Branco,4
+2026-03-26,Tenis Preto,7
+2026-03-27,Sapato,5
+2026-03-27,Camisa Branca,8
+2026-03-27,Camisa Preta,4
+2026-03-27,Abotoadura,0
+2026-03-27,Cinto,4
+2026-03-27,Tenis Branco,8
+2026-03-27,Tenis Preto,7
+2026-03-28,Sapato,8
+2026-03-28,Camisa Branca,7
+2026-03-28,Camisa Preta,5
+2026-03-28,Abotoadura,1
+2026-03-28,Cinto,5
+2026-03-28,Tenis Branco,7
+2026-03-28,Tenis Preto,3
+2026-03-29,Sapato,6
+2026-03-29,Camisa Branca,6
+2026-03-29,Camisa Preta,6
+2026-03-29,Abotoadura,2
+2026-03-29,Cinto,1
+2026-03-29,Tenis Branco,9
+2026-03-29,Tenis Preto,4
+2026-03-30,Sapato,9
+2026-03-30,Camisa Branca,8
+2026-03-30,Camisa Preta,6
+2026-03-30,Abotoadura,1
+2026-03-30,Cinto,4
+2026-03-30,Tenis Branco,9
+2026-03-30,Tenis Preto,4
+2026-03-31,Sapato,8
+2026-03-31,Camisa Branca,8
+2026-03-31,Camisa Preta,6
+2026-03-31,Abotoadura,1
+2026-03-31,Cinto,3
+2026-03-31,Tenis Branco,8
+2026-03-31,Tenis Preto,3
+2026-04-01,Sapato,9
+2026-04-01,Camisa Branca,3
+2026-04-01,Camisa Preta,8
+2026-04-01,Abotoadura,0
+2026-04-01,Cinto,4
+2026-04-01,Tenis Branco,3
+2026-04-01,Tenis Preto,4
+2026-04-02,Sapato,9
+2026-04-02,Camisa Branca,7
+2026-04-02,Camisa Preta,3
+2026-04-02,Abotoadura,0
+2026-04-02,Cinto,3
+2026-04-02,Tenis Branco,4
+2026-04-02,Tenis Preto,7
+2026-04-03,Sapato,8
+2026-04-03,Camisa Branca,4
+2026-04-03,Camisa Preta,7
+2026-04-03,Abotoadura,1
+2026-04-03,Cinto,4
+2026-04-03,Tenis Branco,6
+2026-04-03,Tenis Preto,4
+2026-04-04,Sapato,8
+2026-04-04,Camisa Branca,7
+2026-04-04,Camisa Preta,3
+2026-04-04,Abotoadura,2
+2026-04-04,Cinto,1
+2026-04-04,Tenis Branco,7
+2026-04-04,Tenis Preto,3
+2026-04-05,Sapato,7
+2026-04-05,Camisa Branca,7
+2026-04-05,Camisa Preta,5
+2026-04-05,Abotoadura,0
+2026-04-05,Cinto,5
+2026-04-05,Tenis Branco,4
+2026-04-05,Tenis Preto,8
+2026-04-06,Sapato,10
+2026-04-06,Camisa Branca,8
+2026-04-06,Camisa Preta,4
+2026-04-06,Abotoadura,1
+2026-04-06,Cinto,1
+2026-04-06,Tenis Branco,5
+2026-04-06,Tenis Preto,5
+2026-04-07,Sapato,10
+2026-04-07,Camisa Branca,7
+2026-04-07,Camisa Preta,5
+2026-04-07,Abotoadura,0
+2026-04-07,Cinto,1
+2026-04-07,Tenis Branco,7
+2026-04-07,Tenis Preto,8
+2026-04-08,Sapato,10
+2026-04-08,Camisa Branca,7
+2026-04-08,Camisa Preta,8
+2026-04-08,Abotoadura,0
+2026-04-08,Cinto,4
+2026-04-08,Tenis Branco,3
+2026-04-08,Tenis Preto,7
+2026-04-09,Sapato,5
+2026-04-09,Camisa Branca,7
+2026-04-09,Camisa Preta,4
+2026-04-09,Abotoadura,2
+2026-04-09,Cinto,4
+2026-04-09,Tenis Branco,4
+2026-04-09,Tenis Preto,9
+2026-04-10,Sapato,6
+2026-04-10,Camisa Branca,3
+2026-04-10,Camisa Preta,5
+2026-04-10,Abotoadura,2
+2026-04-10,Cinto,2
+2026-04-10,Tenis Branco,8
+2026-04-10,Tenis Preto,9
+2026-04-11,Sapato,5
+2026-04-11,Camisa Branca,7
+2026-04-11,Camisa Preta,7
+2026-04-11,Abotoadura,2
+2026-04-11,Cinto,3
+2026-04-11,Tenis Branco,3
+2026-04-11,Tenis Preto,7
+2026-04-12,Sapato,6
+2026-04-12,Camisa Branca,3
+2026-04-12,Camisa Preta,4
+2026-04-12,Abotoadura,1
+2026-04-12,Cinto,1
+2026-04-12,Tenis Branco,3
+2026-04-12,Tenis Preto,5
+2026-04-13,Sapato,4
+2026-04-13,Camisa Branca,4
+2026-04-13,Camisa Preta,7
+2026-04-13,Abotoadura,1
+2026-04-13,Cinto,1
+2026-04-13,Tenis Branco,5
+2026-04-13,Tenis Preto,5
+2026-04-14,Sapato,7
+2026-04-14,Camisa Branca,3
+2026-04-14,Camisa Preta,6
+2026-04-14,Abotoadura,1
+2026-04-14,Cinto,2
+2026-04-14,Tenis Branco,3
+2026-04-14,Tenis Preto,7
+2026-04-15,Sapato,4
+2026-04-15,Camisa Branca,8
+2026-04-15,Camisa Preta,7
+2026-04-15,Abotoadura,2
+2026-04-15,Cinto,3
+2026-04-15,Tenis Branco,8
+2026-04-15,Tenis Preto,5
+2026-04-16,Sapato,9
+2026-04-16,Camisa Branca,3
+2026-04-16,Camisa Preta,5
+2026-04-16,Abotoadura,0
+2026-04-16,Cinto,3
+2026-04-16,Tenis Branco,7
+2026-04-16,Tenis Preto,7
+2026-04-17,Sapato,5
+2026-04-17,Camisa Branca,4
+2026-04-17,Camisa Preta,4
+2026-04-17,Abotoadura,2
+2026-04-17,Cinto,5
+2026-04-17,Tenis Branco,5
+2026-04-17,Tenis Preto,4
+2026-04-18,Sapato,7
+2026-04-18,Camisa Branca,6
+2026-04-18,Camisa Preta,5
+2026-04-18,Abotoadura,0
+2026-04-18,Cinto,4
+2026-04-18,Tenis Branco,9
+2026-04-18,Tenis Preto,5
+2026-04-19,Sapato,8
+2026-04-19,Camisa Branca,8
+2026-04-19,Camisa Preta,6
+2026-04-19,Abotoadura,1
+2026-04-19,Cinto,1
+2026-04-19,Tenis Branco,9
+2026-04-19,Tenis Preto,4
+2026-04-20,Sapato,6
+2026-04-20,Camisa Branca,5
+2026-04-20,Camisa Preta,8
+2026-04-20,Abotoadura,1
+2026-04-20,Cinto,2
+2026-04-20,Tenis Branco,8
+2026-04-20,Tenis Preto,5
+2026-04-21,Sapato,6
+2026-04-21,Camisa Branca,8
+2026-04-21,Camisa Preta,3
+2026-04-21,Abotoadura,0
+2026-04-21,Cinto,5
+2026-04-21,Tenis Branco,7
+2026-04-21,Tenis Preto,6
+2026-04-22,Sapato,9
+2026-04-22,Camisa Branca,3
+2026-04-22,Camisa Preta,5
+2026-04-22,Abotoadura,0
+2026-04-22,Cinto,2
+2026-04-22,Tenis Branco,7
+2026-04-22,Tenis Preto,7
+2026-04-23,Sapato,4
+2026-04-23,Camisa Branca,7
+2026-04-23,Camisa Preta,8
+2026-04-23,Abotoadura,2
+2026-04-23,Cinto,2
+2026-04-23,Tenis Branco,8
+2026-04-23,Tenis Preto,3
+2026-04-24,Sapato,10
+2026-04-24,Camisa Branca,5
+2026-04-24,Camisa Preta,7
+2026-04-24,Abotoadura,1
+2026-04-24,Cinto,1
+2026-04-24,Tenis Branco,3
+2026-04-24,Tenis Preto,7
+2026-04-25,Sapato,7
+2026-04-25,Camisa Branca,8
+2026-04-25,Camisa Preta,8
+2026-04-25,Abotoadura,2
+2026-04-25,Cinto,5
+2026-04-25,Tenis Branco,9
+2026-04-25,Tenis Preto,9
+2026-04-26,Sapato,6
+2026-04-26,Camisa Branca,3
+2026-04-26,Camisa Preta,3
+2026-04-26,Abotoadura,1
+2026-04-26,Cinto,4
+2026-04-26,Tenis Branco,4
+2026-04-26,Tenis Preto,5
+2026-04-27,Sapato,8
+2026-04-27,Camisa Branca,5
+2026-04-27,Camisa Preta,8
+2026-04-27,Abotoadura,2
+2026-04-27,Cinto,2
+2026-04-27,Tenis Branco,8
+2026-04-27,Tenis Preto,9
+2026-04-28,Sapato,7
+2026-04-28,Camisa Branca,7
+2026-04-28,Camisa Preta,7
+2026-04-28,Abotoadura,2
+2026-04-28,Cinto,4
+2026-04-28,Tenis Branco,9
+2026-04-28,Tenis Preto,4
+2026-04-29,Sapato,9
+2026-04-29,Camisa Branca,4
+2026-04-29,Camisa Preta,8
+2026-04-29,Abotoadura,1
+2026-04-29,Cinto,3
+2026-04-29,Tenis Branco,6
+2026-04-29,Tenis Preto,4
+2026-04-30,Sapato,10
+2026-04-30,Camisa Branca,5
+2026-04-30,Camisa Preta,5
+2026-04-30,Abotoadura,2
+2026-04-30,Cinto,4
+2026-04-30,Tenis Branco,4
+2026-04-30,Tenis Preto,7
